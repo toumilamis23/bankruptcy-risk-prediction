@@ -1,0 +1,4 @@
+model,PR-AUC mean,PR-AUC std,ROC-AUC mean,ROC-AUC std
+Logistic Regression,0.38,0.043,0.912,0.022
+Random Forest,0.442,0.051,0.938,0.024
+XGBoost,0.459,0.061,0.94,0.02
